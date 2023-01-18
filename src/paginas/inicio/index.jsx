@@ -1,11 +1,17 @@
 import React from 'react'
-import Banner from 'Componentes/Banner'
+import styles from './inicio.module.css'
+import posts from 'Json/posts.json'
+import Posts from 'Componentes/Post'
 
 export default function Inicio() {
   return (
-    <main>
-      <Banner />
-      <h1>Olá mundo!</h1>
-    </main>
+      <ul className={styles.posts}>
+          {posts.map((post) => (
+            <li key={post.id}>
+                <Posts post={post}/>
+            </li>
+          ))}
+      </ul>
+    
   )
 }

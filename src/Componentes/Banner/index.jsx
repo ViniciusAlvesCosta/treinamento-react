@@ -1,6 +1,6 @@
 import styles from './Banner.module.css'
-import circuloColorido from '../assents/circulo_colorido.png'
-import minhaFoto from '../assents/minha_foto.png'
+import circuloColorido from '../assets/circulo_colorido.png'
+import minhaFoto from '../assets/minha_foto.png'
 
 import React from 'react'
 
