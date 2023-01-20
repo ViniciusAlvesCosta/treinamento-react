@@ -10,12 +10,14 @@
 
 .fotoCapa {
     width: 100%;
+    background-position: 25% 45%;
     background-size: cover;
     background-repeat: no-repeat;
     opacity: 0.3;
     position: absolute;
     top: 0;
     z-index: -1;
+    height: 250px;
 }
 
 .titulo {
