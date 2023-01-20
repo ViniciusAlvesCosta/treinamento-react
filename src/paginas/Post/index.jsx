@@ -32,6 +32,7 @@ export default function Post() {
                         <ReactMarkdown>
                             {post.texto}
                         </ReactMarkdown>
+                        <img alt={post.altGif} src={post.gif} />
                     </div>
                     <h2 className={styles.tituloOutrosPosts}>
                         Outros posts que você pode gostar:

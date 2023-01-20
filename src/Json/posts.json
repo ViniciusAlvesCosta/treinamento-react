@@ -1,37 +1,51 @@
 [
     {
         "id": 1,
-        "titulo": "Meliodas dragon Sin",
-        "texto": "> Fonte: <https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Meliodas> \n\n Meliodas, é o líder dos Sete Pecados Capitais e atual Rei de Liones, carregando o título de Pecado da Ira do Dragão! \n\n ### Um breve resumo \n\n Ele é o proprietário do renomado bar [Chapéu de Javali](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Chap%C3%A9u_de_Javali) , e o principal protagonista da primeira parte da série. O seu [Tesouro Sagrado](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Tesouro_Sagrado) é a Espada Demônio [ Lostvayne](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Lostvayne) e seu poder é o [ Full Counter](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Full_Counter).  \n\n Ele também já foi o portador do [Mandamento](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Mandamento) do [Amor](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Amor) e é o antigo líder dos [Dez Mandamentos](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Dez_Mandamentos),  \n\n  um antigo membro do [Stigma](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Stigma), e o filho mais velho do [Rei Demônio](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Rei_Dem%C3%B4nio). \n\n ![gif do meliodas](/assets/posts/1/gif-1.gif) "
+        "titulo": "Meliodas Dragon Sin",
+        "gif": "/assets/posts/1/gif-1.gif",
+        "altGif": "Gif do Meliodas",
+        "texto": "> Fonte: <https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Meliodas> \n\n Meliodas, é o líder dos Sete Pecados Capitais e atual Rei de Liones, carregando o título de Pecado da Ira do Dragão! \n\n Ele é o proprietário do renomado bar [Chapéu de Javali](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Chap%C3%A9u_de_Javali) , e o principal protagonista da primeira parte da série. O seu [Tesouro Sagrado](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Tesouro_Sagrado) é a Espada Demônio [ Lostvayne](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Lostvayne) e seu poder é o [ Full Counter](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Full_Counter).  \n\n Ele também já foi o portador do [Mandamento](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Mandamento) do [Amor](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Amor) e é o antigo líder dos [Dez Mandamentos](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Dez_Mandamentos),  \n\n  um antigo membro do [Stigma](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Stigma), e o filho mais velho do [Rei Demônio](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Rei_Dem%C3%B4nio)."
     },
     {
         "id": 2,
-        "titulo": "Ban fox Sin",
-        "texto": "> Fonte: <https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Ban> \n\n Ban é um membro dos [Sete Pecados Capitais](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Sete_Pecados_Capitais), conhecido como o Pecado da Ganância da Raposa. \n\n \n\n  Após o grupo se separar, Ban foi preso pelo grupo [Presas Tortuosas](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Presas_Tortuosas) na [Prisão de Baste](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Pris%C3%A3o_de_Baste) , mas escapou quando soube que Meliodas estava vivo à sua procura. Além de ser imortal, ele é conhecido por sua habilidade, [Snatch](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Snatch). \n\n ![gif do ban](/assets/posts/2/gif-2.gif)"
+        "titulo": "Ban Fox Sin",
+        "gif": "/assets/posts/2/gif-2.gif",
+        "altGif": "Gif do Ban",
+        "texto": "> Fonte: <https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Ban> \n\n Ban é um membro dos [Sete Pecados Capitais](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Sete_Pecados_Capitais), conhecido como o Pecado da Ganância da Raposa. \n\n \n\n  Após o grupo se separar, Ban foi preso pelo grupo [Presas Tortuosas](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Presas_Tortuosas) na [Prisão de Baste](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Pris%C3%A3o_de_Baste) , mas escapou quando soube que Meliodas estava vivo à sua procura. Além de ser imortal, ele é conhecido por sua habilidade, [Snatch](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Snatch)."
     },
     {
         "id": 3,
-        "titulo": " King bear Sin",
-        "texto": "> Fonte: <https://nanatsu-no-taizai.fandom.com/pt-br/wiki/King> \n\n King é um membro dos [Sete Pecados Capitais](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Sete_Pecados_Capitais), e é conhecido como o Pecado da Preguiça do Urso. \n\n Seu nome verdadeiro é Rei das Fadas Harlequin, ele protege a [Floresta do Rei das Fadas](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Floresta_do_Rei_das_Fadas) e o resto do Reino das Fadas. Seu [Tesouro Sagrado](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Tesouro_Sagrado) é a Lança Espiritual [Chastiefol](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Chastiefol), que ele utiliza em conjunto com seu poder, [Disaster](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Disaster). \n\n ![gif do King](/assets/posts/3/gif-3.gif)"
+        "titulo": " King Bear Sin",
+        "gif": "/assets/posts/3/gif-3.gif",
+        "altGif": "Gif do King",
+        "texto": "> Fonte: <https://nanatsu-no-taizai.fandom.com/pt-br/wiki/King> \n\n King é um membro dos [Sete Pecados Capitais](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Sete_Pecados_Capitais), e é conhecido como o Pecado da Preguiça do Urso. \n\n Seu nome verdadeiro é Rei das Fadas Harlequin, ele protege a [Floresta do Rei das Fadas](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Floresta_do_Rei_das_Fadas) e o resto do Reino das Fadas. Seu [Tesouro Sagrado](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Tesouro_Sagrado) é a Lança Espiritual [Chastiefol](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Chastiefol), que ele utiliza em conjunto com seu poder, [Disaster](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Disaster)."
     },
     {
         "id": 4,
-        "titulo": " Diane serpent Sin ",
-        "texto": "> Fonte: <https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Diane> \n\n  Diane é um membro dos [Sete Pecados Capitais](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Sete_Pecados_Capitais), e é conhecida como o Pecado da inveja da Serpente.  \n\n Ela é um membro do [Clã dos Gigantes](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Cl%C3%A3_dos_Gigantes), e é muito maior do que as pessoas comuns, incluindo seus companheiros dos Sete Pecados Capitais. Seu [Tesouro Sagrado](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Tesouro_Sagrado) é o Martelo da Guerra [Gideon](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Gideon), que ela usa em conjunto com o seu poder,  [Creation](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Creation). \n\n ![gif da diane](/assets/posts/4/gif-4.gif) "
+        "titulo": " Diane Serpent Sin ",
+        "gif": "/assets/posts/1/gif-1.gif",
+        "altGif": "Gif da Diane",
+        "texto": "> Fonte: <https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Diane> \n\n  Diane é um membro dos [Sete Pecados Capitais](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Sete_Pecados_Capitais), e é conhecida como o Pecado da inveja da Serpente.  \n\n Ela é um membro do [Clã dos Gigantes](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Cl%C3%A3_dos_Gigantes), e é muito maior do que as pessoas comuns, incluindo seus companheiros dos Sete Pecados Capitais. Seu [Tesouro Sagrado](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Tesouro_Sagrado) é o Martelo da Guerra [Gideon](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Gideon), que ela usa em conjunto com o seu poder,  [Creation](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Creation)."
     },
     {
         "id": 5,
-        "titulo": " Gowther goat Sin ",
-        "texto": "> Fonte: <https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Gowther> \n\n  Gowther é um membro dos [Sete Pecados Capitais](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Sete_Pecados_Capitais) e é conhecido como o Pecado da Cabra da Luxúria. \n\n Foi revelado que ele é um boneco, criado por um grande bruxo e que é um membro dos [Dez Mandamentos](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Dez_Mandamentos). Seu [Tesouro Sagrado](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Tesouro_Sagrado)  é o [Arco Duplo Herritt](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Herritt), que ele usa para utilizar à sua capacidade total o seu poder, [Invasion](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Invasion). \n\n ![gif do gowther](/assets/posts/5/gif-5.gif)"
+        "titulo": " Gowther Goat Sin ",
+        "gif": "/assets/posts/5/gif-5.gif",
+        "altGif": "Gif do Gowther",
+        "texto": "> Fonte: <https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Gowther> \n\n  Gowther é um membro dos [Sete Pecados Capitais](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Sete_Pecados_Capitais) e é conhecido como o Pecado da Cabra da Luxúria. \n\n Foi revelado que ele é um boneco, criado por um grande bruxo e que é um membro dos [Dez Mandamentos](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Dez_Mandamentos). Seu [Tesouro Sagrado](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Tesouro_Sagrado)  é o [Arco Duplo Herritt](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Herritt), que ele usa para utilizar à sua capacidade total o seu poder, [Invasion](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Invasion)."
     },
     {
         "id": 6,
-        "titulo": " Merlin boar Sin ",
-        "texto": "> Fonte: <https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Merlin> \n\n  Merlin é um membro dos [Sete Pecados Capitais](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Sete_Pecados_Capitais) e é conhecida como o Pecado da Gula do Javali.\n\nEla é considerada a maior maga de [Britânia](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Brit%C3%A2nia) \n\nSeu [Tesouro Sagrado](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Tesouro_Sagrado) é o  Estrela da Manhã [Aldan](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Aldan) , uma orbe flutuante que ela pode convocar a qualquer momento e que muitas vezes ela usa em conjunto com seus feitiços e seu poder inerente [Infinity](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Infinity). O nome Merlin é na verdade um pseudônimo, dado que seu nome verdadeiro é impronunciável para os humanos. \n\n ![gif do merlin](/assets/posts/6/gif-6.gif)"
+        "titulo": " Merlin Boar Sin",
+        "gif": "/assets/posts/6/gif-6.gif",
+        "altGif": "Gif da Merlin",
+        "texto": "> Fonte: <https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Merlin> \n\n  Merlin é um membro dos [Sete Pecados Capitais](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Sete_Pecados_Capitais) e é conhecida como o Pecado da Gula do Javali.\n\nEla é considerada a maior maga de [Britânia](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Brit%C3%A2nia) \n\nSeu [Tesouro Sagrado](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Tesouro_Sagrado) é o  Estrela da Manhã [Aldan](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Aldan) , uma orbe flutuante que ela pode convocar a qualquer momento e que muitas vezes ela usa em conjunto com seus feitiços e seu poder inerente [Infinity](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Infinity). O nome Merlin é na verdade um pseudônimo, dado que seu nome verdadeiro é impronunciável para os humanos."
     },
     {
         "id": 7,
-        "titulo": " Escanor lion Sin ",
-        "texto": "> Fonte: <https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Escanor> \n\n  Escanor era o Pecado do Leão do Orgulho dos  [Sete Pecados Capitais](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Sete_Pecados_Capitais), o ex-segundo príncipe do Reino de Castellio, e o homem conhecido em todo o [Reino de Liones](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Reino_de_Liones) como O Cavaleiro Sagrado Mais Forte. \n\nSeu Tesouro Sagrado era o Machado Divino [Rhitta](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Rhitta), e seu poder inerente se chamava  [Sunshine](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Sunshine), o que o tornou conhecido por ganhar imenso poder durante o dia, e gradualmente enfraquecer com o pôr do sol, deixando-o frágil e submisso à noite. \n\n ![gif do escanor](/assets/posts/7/gif-7.gif)"
+        "titulo": " Escanor Lion Sin ",
+        "gif": "/assets/posts/7/gif-7.gif",
+        "altGif": "Gif do Escanor",
+        "texto": "> Fonte: <https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Escanor> \n\n  Escanor era o Pecado do Leão do Orgulho dos  [Sete Pecados Capitais](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Sete_Pecados_Capitais), o ex-segundo príncipe do Reino de Castellio, e o homem conhecido em todo o [Reino de Liones](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Reino_de_Liones) como O Cavaleiro Sagrado Mais Forte. \n\nSeu Tesouro Sagrado era o Machado Divino [Rhitta](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Rhitta), e seu poder inerente se chamava  [Sunshine](https://nanatsu-no-taizai.fandom.com/pt-br/wiki/Sunshine), o que o tornou conhecido por ganhar imenso poder durante o dia, e gradualmente enfraquecer com o pôr do sol, deixando-o frágil e submisso à noite. \n\n"
     }
 ]
