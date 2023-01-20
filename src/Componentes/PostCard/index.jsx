@@ -2,6 +2,7 @@ import styles from './Post.module.css'
 
 import React from 'react'
 import { Link } from 'react-router-dom'
+import BotaoPrincipal from 'Componentes/BoatoPrincipal'
 
 export default function PostCard({ post }) {
     return (
@@ -9,13 +10,13 @@ export default function PostCard({ post }) {
         <div className={styles.post}>
             <img
                 className={styles.capa}
-                src={`/assets/posts/${post.id}/capa.png`}
+                src={`/assets/posts/${post.id}/capa.jpg`}
                 alt="Imagem de capa do post"
             />
 
             <h2 className={styles.titulo}>{post.titulo}</h2>
 
-            <button className={styles.botaoLer}>Ler</button>
+            <BotaoPrincipal>Ler</BotaoPrincipal>
         </div>
         </Link>
     )
